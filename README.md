@@ -2,6 +2,7 @@
 
 Wireshark dissector for TSL UMD (under-monitor display) protocol V3.1, V4.
 
+For details of the protocol, see https://tslproducts.com/media/1959/tsl-umd-protocol.pdf
 ## Installation
 
 Copy `tsl_dissector.lua` to your Wireshark plugin directory, e.g. `C:\Program Files\Wireshark\plugins` 
